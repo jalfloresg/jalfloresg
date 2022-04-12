@@ -3,11 +3,12 @@
 
   ## Skills
 - 👨‍💻 TypeScript, JavaScript, Java
-- ⚙️ ReactJs(Technical), Spring
+- ⚙️ ReactJs(Technical), Spring, Angular
 - 👁️ CSS(Just a little)
-- 💽 Oracle
+- 💽 Oracle, SQL Server
+- 🔨 CI/CD, Jenkins, Bitbucket Piplines, Cordova, Android, IOS
 
 ## Contact
 - [@josefloresgarcia](https://www.instagram.com/josefloresga/) on Instagram
-- [@josefloresgarcia](https://www.linkedin.com/in/jose-flores-garcia-5741158b/) on Linkedin
+- [Jose Flores in](https://www.linkedin.com/in/jose-flores-garcia-5741158b/) on Linkedin
 
