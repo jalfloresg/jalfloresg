@@ -1,5 +1,5 @@
 <h2> 👋 Hi, I'm Jose Flores Garcia </h2>
-<p><em>SSr Software Engineer at <a href="https://www.technisys.com/">Technisys / SoFi
+<p><em>SSr Software Engineer at <a href="https://www.technisys.com/">Technisys / SoFi</a>
 
   ## Skills
 - 👨‍💻 TypeScript, JavaScript, Java
